@@ -1,0 +1,53 @@
+/* @font-face kit by Fonts2u (https://fonts2u.com) */ @font-face {font-family:"Cursed Timer ULiL";src:url("CursedTimerULiL.woff") format("woff");font-weight:normal;font-style:normal;}
+
+
+body {
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    width: 575px;
+    height: 385px;
+    background: #1B244A;
+	margin: 0 auto;
+}
+
+.team{
+    display: flex;
+    flex-direction: column;
+}
+
+.team h3{
+    color: #ffffff;
+    font-family: Verdana, Geneva, sans-serif;
+	font-size: 30pt
+}
+
+.score{
+    background-color: black;
+	text-align: right;
+	padding: 30px 43px;
+	border-radius: 10px;
+}
+.score h2{
+    color: #F94F6D;
+	font-family:'Cursed Timer ULiL';
+	font-size: 50pt;
+	margin: 0;
+}
+
+.actions{
+    margin : 20px 0 0 0;
+}
+
+button{
+	font-family:'Cursed Timer ULiL';
+	background: none;
+	border: 1px solid #9AABD8;
+	border-radius: 2px;
+	color: #9AABD8;
+	padding: 4px 4px 3px 4px;
+	text-align: inherit;
+}
