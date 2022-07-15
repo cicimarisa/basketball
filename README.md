@@ -1,4 +1,4 @@
-# basketball
+# Basketball
 basketball score counting
 
 # About Me, Cici
